@@ -1,2 +1,2 @@
-def add(a, b):
-  return a + b
+wedef add(a, b):
+  return int(a + b)
